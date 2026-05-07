@@ -6,7 +6,10 @@ Literally just a simple counter box, I made this because at my data entry job I 
 
 Yeah, I also realized too late that the name doesnt totally make sense since it can both increment and decrement. Oh well, I guess that makes it funnier? 
 
-## The Vision
+
+## Version 1 stuff 
+
+### The Vision
 
 This will probably just be a one off project, and will be open source for anyone who also wants a stupid useless desk counter. It will probably just use super simple basic components, but maybe I'll upgrade them eventually for a version 2. Potentially would also make a PCB version just for practice. 
 
@@ -16,7 +19,7 @@ Below you can see my original vision for the layout, as well as a beautiful rend
 <img width="1408" height="790" alt="image" src="https://github.com/user-attachments/assets/0e1267c2-190e-4bde-99f3-1dc7b9387163" />
 
 
-## Components required (Version 1)
+### Components required (Version 1)
 
 - SSD1306 0.96" OLED
 - Momentary Push Button
@@ -25,6 +28,6 @@ Below you can see my original vision for the layout, as well as a beautiful rend
 - Cherry MX Switch
 - Pro Micro
 
-## Pinout Table
+### Pinout Table
 
 Coming soon along with a wiring schematic!
