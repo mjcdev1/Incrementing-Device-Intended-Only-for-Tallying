@@ -10,6 +10,11 @@ Yeah, I also realized too late that the name doesnt totally make sense since it 
 
 This will probably just be a one off project, and will be open source for anyone who also wants a stupid useless desk counter. It will probably just use super simple basic components, but maybe I'll upgrade them eventually for a version 2. Potentially would also make a PCB version just for practice. 
 
+Below you can see my original vision for the layout, as well as a beautiful render thanks to ChatGPT. God knows I don't possess the skills or time to make a render like this so yay for technology!
+
+![Prototype](the vision.png)
+![Prototype](first render.png)
+
 ## Components required (Version 1)
 
 SSD1306 0.96" OLED
