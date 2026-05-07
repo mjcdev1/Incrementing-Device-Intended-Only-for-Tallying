@@ -13,7 +13,8 @@ This will probably just be a one off project, and will be open source for anyone
 Below you can see my original vision for the layout, as well as a beautiful render thanks to ChatGPT. God knows I don't possess the skills or time to make a render like this so yay for technology!
 
 ![V1 Layout](layout.png)
-![V1 Render](render.png)
+<img width="1408" height="790" alt="image" src="https://github.com/user-attachments/assets/0e1267c2-190e-4bde-99f3-1dc7b9387163" />
+
 
 ## Components required (Version 1)
 
