@@ -12,17 +12,17 @@ This will probably just be a one off project, and will be open source for anyone
 
 Below you can see my original vision for the layout, as well as a beautiful render thanks to ChatGPT. God knows I don't possess the skills or time to make a render like this so yay for technology!
 
-![Prototype](the vision.png)
-![Prototype](first render.png)
+![V1 Layout](layout.png)
+![V1 Render](render.png)
 
 ## Components required (Version 1)
 
-SSD1306 0.96" OLED
-Momentary Push Button
-SPST Toggle Switch
-EC11 Encoder
-Cherry MX Switch
-Pro Micro
+- SSD1306 0.96" OLED
+- Momentary Push Button
+- SPST Toggle Switch
+- EC11 Encoder
+- Cherry MX Switch
+- Pro Micro
 
 ## Pinout Table
 
